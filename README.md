@@ -1,4 +1,4 @@
-<div style="display: inline_block" align="center" style="background-color: #47271C;"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="coffee-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="coffee-rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
   <img align="center" alt="coffee-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
