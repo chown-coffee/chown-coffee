@@ -22,6 +22,6 @@
   <a href="https://www.linkedin.com/in/leo-andrade/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23090909?style=for-the-badge&logo=linkedin&logoColor=a087ea" target="_blank"></a>
   <a href = "mailto:chown.leonardo@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-090909?style=for-the-badge&logo=protonmail&logoColor=a087ea" target="_blank"></a>
  <a href="https://discordapp.com/users/594237205522808834" target="_blank"><img src="https://img.shields.io/badge/Discord-090909?style=for-the-badge&logo=discord&logoColor=a087ea" target="_blank"></a>
-  <a href="https://www.instagram.com/chmod_000_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=a087ea" target="_blank"></a>
+  <a href="https://www.instagram.com/chown.coffee/" target="_blank"><img src="https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=a087ea" target="_blank"></a>
   <a href="https://www.reddit.com/user/chown_iwa" target="_blank"><img src="https://img.shields.io/badge/Reddit-090909?style=for-the-badge&logo=reddit&logoColor=a087ea" target="_blank"></a>
 </div>
